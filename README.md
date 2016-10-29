@@ -1,6 +1,6 @@
 Web Scraping in Python
 
-extract.py:
+scrap.py:
 
     This code uses the BeautifulSoup library to extract the links in any webpage.
 
